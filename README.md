@@ -6,3 +6,4 @@ The website allows users to explore dresses from multiple designers, view design
 
 This project focuses on **clean UI design, responsiveness, and interactive frontend functionality**.
 
+HomePage ![Home Page](ecom.png)

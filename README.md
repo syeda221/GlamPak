@@ -1,4 +1,4 @@
-# My Fashion Store
+# PakGlam -fashion website
 
 ## Introduction
 **My Fashion Store** is a frontend-only fashion website built using **HTML, CSS, JavaScript, and Bootstrap**.  
